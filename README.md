@@ -8,7 +8,9 @@ Right now I'm studying Software Engineering at Unicesumar and building real proj
 
 🔧 Tech Stack: 
 Core: Java · Spring Boot · REST APIs
+
 Database: SQLite · JDBC
+
 Tools: Git · GitHub · IntelliJ IDEA
 
 <div align="left">
