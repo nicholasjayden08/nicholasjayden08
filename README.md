@@ -7,6 +7,7 @@ Born in Cambridge, MA — raised in Brazil since age 3. I've been building thing
 Right now I'm studying Software Engineering at Unicesumar and building real projects to sharpen my skills. I care about writing code that's readable, intentional, and actually solves something.
 
 🔧 Tech Stack: 
+
 **Core:** Java · Spring Boot · REST APIs  
 **Database:** SQLite · JDBC  
 **Tools:** Git · GitHub · IntelliJ IDEA 
