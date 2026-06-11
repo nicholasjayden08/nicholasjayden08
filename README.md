@@ -1,14 +1,15 @@
 # Nicholas Jayden
 
-**`Desenvolvedor Back-End`**
+**`Back-end Developer`**
 
-Me chamo Nicholas Jayden Sant'Anna, tenho 18 anos, sou estudante de Engenharia de Software na Unicesumar, natural de Cambridge, Massachusetts, me mudei para o Brasil aos 3 anos então vivi minha vida inteira aqui.
+Born in Cambridge, MA — raised in Brazil since age 3. I've been building things with code since I got curious about how software actually works, and that curiosity turned into a focus on backend development with Java.
 
-Fascinado por tecnologia desde a infância, agora estou focado em desenvolvimento back-end com Java e frameworks modernos. Gosto construir aplicações práticas e reais, além de estar sempre aprendendo novas tecnologias.
+Right now I'm studying Software Engineering at Unicesumar and building real projects to sharpen my skills. I care about writing code that's readable, intentional, and actually solves something.
 
-🔧 Tech Stack: Java | Spring Boot | Git/GitHub
-
-🎯 Objetivo: Tornar-me um desenvolvedor back-end especializado
+🔧 Tech Stack: 
+Core: Java · Spring Boot · REST APIs
+Database: SQLite · JDBC
+Tools: Git · GitHub · IntelliJ IDEA
 
 <div align="left">
   <a href="mailto:nicholasjayden01@gmail.com">
@@ -20,7 +21,7 @@ Fascinado por tecnologia desde a infância, agora estou focado em desenvolviment
 </div>
 
 ---
-### 🔧 Línguagens e Tecnologias
+### 🔧 languages ​​and technologies
 
 <img
     align="left" 
